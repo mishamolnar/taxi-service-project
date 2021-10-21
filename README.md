@@ -37,5 +37,3 @@ The project was created using these technologies:
 * initialize your database using init_db.sql file located in resources
 * add your info to ConnectionUtil located in util to be able to connect to your database
 * run this project using Tomcat's local server
-# taxi-admin-service
-My taxi service for admins and drivers

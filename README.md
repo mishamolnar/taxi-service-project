@@ -5,7 +5,7 @@
 
 #### General info
 
-Taxi service is a pet project that was created 
+Taxi service is project that was created 
 with the aim to show my skills in Java, OOP, 
 SOLID principles, JDBC, Web. The web application provides the following features to registered users:
 * Add drivers, cars and manufacturers
